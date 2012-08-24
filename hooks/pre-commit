@@ -1,4 +1,3 @@
 #!/sh
-echo "sup"
-mkdir "stupid"
+ls
 exit 0
