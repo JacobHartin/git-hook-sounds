@@ -1,3 +1,2 @@
-#!/sh
 echo ls
 exit 0
